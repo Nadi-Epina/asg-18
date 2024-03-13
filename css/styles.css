@@ -16,12 +16,11 @@ ul {
   /* list-style-type: none; */
 }
 .main {
-  margin-top: 20px;
   max-width: 1200px;
-  margin-left: auto; /* Center the content horizontally */
-  margin-right: auto; /* Center the content horizontally */
-  /* padding-left: 138px;
-    padding-right: 138px; */
+  width: 100%;
+  margin: 20px auto;
+  padding: 0 20px;
+  box-sizing: border-box;
 }
 .nav-link {
   color: #666666;
