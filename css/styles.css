@@ -12,9 +12,9 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
-ul {
-  /* list-style-type: none; */
-}
+/* ul {
+  list-style-type: none; */
+/* } */
 .main {
   max-width: 1200px;
   width: 100%;
@@ -484,8 +484,8 @@ p {
     grid-template-areas:
       "img"
       "text" !important;
-      gap: 0px;
-      margin-bottom: 0px;
+    gap: 0px;
+    margin-bottom: 0px;
   }
 }
 
